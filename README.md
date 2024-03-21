@@ -8,14 +8,22 @@
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rocklobster84&style=flat-square&color=blue" alt=""/>
-
-  <h2>Hi, I'm Stephanie 👋</h2>
 </div>
 
-<!--
-**Rocklobster84/Rocklobster84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h2>Hi, I'm Stephanie 👋</h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp2M3R2YXZ5ZjJ4ZDdnMjhwb2toczg3MnRxa2k1czM5ZnNrMG01NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+---
+
+### :woman_technologist: About Me : I am a Full Stack Developer from the United States.
+- :telescope: I am currently looking for my next job building web applications.
+- :seedling: Exploring mobile development and AI.
+- :zap: In my free time, I am a photographer.
+- :mailbox: How to reach me: <steph@stephcodes.dev>
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

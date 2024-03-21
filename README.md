@@ -7,6 +7,8 @@
   </a>
 </div>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rocklobster84&style=flat-square&color=blue" alt=""/>
+
   <h2>Hi, I'm Stephanie 👋</h2>
 </div>
 

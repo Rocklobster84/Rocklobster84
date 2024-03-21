@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2J5bm94YmNhcWtieGdzaXpxOTcyNDgxd2w1dWFzdnVqaDh3bnNwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp2M3R2YXZ5ZjJ4ZDdnMjhwb2toczg3MnRxa2k1czM5ZnNrMG01NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" height="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/stephthomp/">
@@ -12,7 +12,6 @@
 
 <div align="center">
   <h2>Hi, I'm Stephanie 👋</h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp2M3R2YXZ5ZjJ4ZDdnMjhwb2toczg3MnRxa2k1czM5ZnNrMG01NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" height="300"/>
 </div>
 
 ---

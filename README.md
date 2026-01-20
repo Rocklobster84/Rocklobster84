@@ -17,7 +17,7 @@
 ---
 
 ### :woman_technologist: About Me : I am a Full Stack Developer from the United States.
-- :telescope: I am currently looking for my next job building web applications.
+- :telescope: I am currently solving problems at Arcadium Technologies.
 - :seedling: Exploring mobile development and AI.
 - :zap: In my free time, I am a photographer.
 - :mailbox: How to reach me: <steph@stephcodes.dev>
